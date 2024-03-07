@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Nunito", sans-serif;
+    height: 100vh;
+}
+
+h1 {
+    font-family: "Source Sans 3";
+    margin-bottom: 30px;
+}
+
+main {
+    max-width: 50%;
+    text-align: center;
+    margin: 100px auto 0;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+input {
+   border: 1px solid rgba(0,0,0,0.1);
+   padding: 10px 20px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+input, button {
+    margin-bottom: 20px;
+}
+
+#solution {
+    display: block;
+    margin-top: 20px;
+}
